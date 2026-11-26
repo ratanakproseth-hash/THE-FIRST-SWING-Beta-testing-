@@ -1,0 +1,6 @@
+{
+  "name": "The First Swing",
+  "description": "Futuristic 1st-person Iron Armor kinetic combat with Sherlco AI voice assistant, disconnected wrist Grapple Hook, unified 6-slot Swords & Guns armory, Laser Boom Gun, connected 50-level sectors, Outside World returning bosses, LV 0 Glitch Finale, Free-For-All, and Wave Mode.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
